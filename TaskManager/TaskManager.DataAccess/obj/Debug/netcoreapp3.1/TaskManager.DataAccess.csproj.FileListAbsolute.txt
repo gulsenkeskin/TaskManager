@@ -1,0 +1,15 @@
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.DataAccess.deps.json
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.DataAccess.dll
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.csprojAssemblyReference.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.DataAccess.runtimeconfig.dev.json
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.DataAccess.pdb
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.dll
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.pdb
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.Entities.dll
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\bin\Debug\netcoreapp3.1\TaskManager.Entities.pdb
+C:\Users\gulse\source\repos\TaskManager\TaskManager.DataAccess\obj\Debug\netcoreapp3.1\TaskManager.DataAccess.csproj.CopyComplete

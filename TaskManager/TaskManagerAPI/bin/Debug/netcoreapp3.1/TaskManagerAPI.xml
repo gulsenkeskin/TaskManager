@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaskManagerAPI</name>
+    </assembly>
+    <members>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.Get">
+            <summary>
+            Get All Tasks
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.GetTaskById(System.Int32)">
+            <summary>
+            Get task by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.GetTaskByType(TaskManager.Entities.TaskType)">
+            <summary>
+            Get task by type : 1=daily, 2= weekly, 3=monthly
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.GetTaskByTitle(System.String)">
+            <summary>
+            Get task by title
+            </summary>
+            <param name="title"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.GetTaskByStartDate(System.DateTime)">
+            <summary>
+            Get task by start date (example: 2020-07-16)
+            </summary>
+            <param name="startDate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.GetTaskByEndDate(System.DateTime)">
+            <summary>
+            Get task by end date (example: 2020-07-16)
+            </summary>
+            <param name="endDate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.GetTaskByUserId(System.Int32)">
+            <summary>
+            Get task by user id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.CreateTask(TaskManager.Entities.Task)">
+            <summary>
+            Create an task
+            </summary>
+            <param name="task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.UpdateTask(TaskManager.Entities.Task)">
+            <summary>
+            Update the task
+            </summary>
+            <param name="task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.TasksController.DeleteTask(System.Int32)">
+            <summary>
+            Delete the task
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.UsersController.Get">
+            <summary>
+            Get All Users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.UsersController.GetUserById(System.Int32)">
+            <summary>
+            Get user by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.UsersController.GetUserByName(System.String)">
+            <summary>
+            Get user by name
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.UsersController.CreateUser(TaskManager.Entities.User)">
+            <summary>
+            Create an user
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.UsersController.UpdateUser(TaskManager.Entities.User)">
+            <summary>
+            Update the user
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManagerAPI.Controllers.UsersController.DeleteUser(System.Int32)">
+            <summary>
+            Delete the hotel
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

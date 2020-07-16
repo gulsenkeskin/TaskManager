@@ -1,0 +1,9 @@
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\bin\Debug\netcoreapp3.1\TaskManager.Entities.deps.json
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\bin\Debug\netcoreapp3.1\TaskManager.Entities.dll
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\bin\Debug\netcoreapp3.1\TaskManager.Entities.pdb
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\obj\Debug\netcoreapp3.1\TaskManager.Entities.csprojAssemblyReference.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\obj\Debug\netcoreapp3.1\TaskManager.Entities.AssemblyInfoInputs.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\obj\Debug\netcoreapp3.1\TaskManager.Entities.AssemblyInfo.cs
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\obj\Debug\netcoreapp3.1\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\obj\Debug\netcoreapp3.1\TaskManager.Entities.dll
+C:\Users\gulse\source\repos\TaskManager\TaskManager.Entities\obj\Debug\netcoreapp3.1\TaskManager.Entities.pdb
